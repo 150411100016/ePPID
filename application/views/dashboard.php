@@ -394,15 +394,15 @@
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-          <h3 class="section-title">Our Portfolio</h3>
+          <h3 class="section-title">Prosedur</h3>
         </header>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100"">
       <div class=" col-lg-12">
           <ul id="portfolio-flters">
             <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-app">App</li>
-            <li data-filter=".filter-card">Card</li>
+            <li data-filter=".filter-app">Permohonan Informasi Publik</li>
+            <li data-filter=".filter-card">Pengajuan Keberatan</li>
             <li data-filter=".filter-web">Web</li>
           </ul>
         </div>
@@ -550,98 +550,6 @@
       </div>
     </section><!-- End Portfolio Section -->
 
-    <!-- ======= Our Clients Section ======= -->
-    <section id="clients">
-      <div class="container" data-aos="zoom-in">
-
-        <header class="section-header">
-          <h3>Our Clients</h3>
-        </header>
-
-        <div class="owl-carousel clients-carousel">
-          <img src="<?php echo base_url() ?>themes/OnePage/assets/img/clients/client-1.png" alt="">
-          <img src="<?php echo base_url() ?>themes/OnePage/assets/img/clients/client-2.png" alt="">
-          <img src="<?php echo base_url() ?>themes/OnePage/assets/img/clients/client-3.png" alt="">
-          <img src="<?php echo base_url() ?>themes/OnePage/assets/img/clients/client-4.png" alt="">
-          <img src="<?php echo base_url() ?>themes/OnePage/assets/img/clients/client-5.png" alt="">
-          <img src="<?php echo base_url() ?>themes/OnePage/assets/img/clients/client-6.png" alt="">
-          <img src="<?php echo base_url() ?>themes/OnePage/assets/img/clients/client-7.png" alt="">
-          <img src="<?php echo base_url() ?>themes/OnePage/assets/img/clients/client-8.png" alt="">
-        </div>
-
-      </div>
-    </section><!-- End Our Clients Section -->
-
-    <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <header class="section-header">
-          <h3>Testimonials</h3>
-        </header>
-
-        <div class="owl-carousel testimonials-carousel">
-
-          <div class="testimonial-item">
-            <img src="<?php echo base_url() ?>themes/OnePage/assets/img/testimonial-1.jpg" class="testimonial-img" alt="">
-            <h3>Saul Goodman</h3>
-            <h4>Ceo &amp; Founder</h4>
-            <p>
-              <img src="<?php echo base_url() ?>themes/OnePage/assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-              <img src="<?php echo base_url() ?>themes/OnePage/assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
-            </p>
-          </div>
-
-          <div class="testimonial-item">
-            <img src="<?php echo base_url() ?>themes/OnePage/assets/img/testimonial-2.jpg" class="testimonial-img" alt="">
-            <h3>Sara Wilsson</h3>
-            <h4>Designer</h4>
-            <p>
-              <img src="<?php echo base_url() ?>themes/OnePage/assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-              <img src="<?php echo base_url() ?>themes/OnePage/assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
-            </p>
-          </div>
-
-          <div class="testimonial-item">
-            <img src="<?php echo base_url() ?>themes/OnePage/assets/img/testimonial-3.jpg" class="testimonial-img" alt="">
-            <h3>Jena Karlis</h3>
-            <h4>Store Owner</h4>
-            <p>
-              <img src="<?php echo base_url() ?>themes/OnePage/assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-              <img src="<?php echo base_url() ?>themes/OnePage/assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
-            </p>
-          </div>
-
-          <div class="testimonial-item">
-            <img src="<?php echo base_url() ?>themes/OnePage/assets/img/testimonial-4.jpg" class="testimonial-img" alt="">
-            <h3>Matt Brandon</h3>
-            <h4>Freelancer</h4>
-            <p>
-              <img src="<?php echo base_url() ?>themes/OnePage/assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-              <img src="<?php echo base_url() ?>themes/OnePage/assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
-            </p>
-          </div>
-
-          <div class="testimonial-item">
-            <img src="<?php echo base_url() ?>themes/OnePage/assets/img/testimonial-5.jpg" class="testimonial-img" alt="">
-            <h3>John Larson</h3>
-            <h4>Entrepreneur</h4>
-            <p>
-              <img src="<?php echo base_url() ?>themes/OnePage/assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-              <img src="<?php echo base_url() ?>themes/OnePage/assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
-            </p>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Testimonials Section -->
-
     <!-- ======= Team Section ======= -->
     <section id="team">
       <div class="container" data-aos="fade-up">
@@ -743,7 +651,7 @@
           <div class="col-md-4">
             <div class="contact-address">
               <i class="ion-ios-location-outline"></i>
-              <h3>Address</h3>
+              <h3>Alamat</h3>
               <address>A108 Adam Street, NY 535022, USA</address>
             </div>
           </div>
@@ -751,7 +659,7 @@
           <div class="col-md-4">
             <div class="contact-phone">
               <i class="ion-ios-telephone-outline"></i>
-              <h3>Phone Number</h3>
+              <h3>Nomor Telpon</h3>
               <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
             </div>
           </div>
@@ -764,35 +672,6 @@
             </div>
           </div>
 
-        </div>
-
-        <div class="form">
-          <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-            <div class="form-row">
-              <div class="form-group col-md-6">
-                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-                <div class="validate"></div>
-              </div>
-              <div class="form-group col-md-6">
-                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
-                <div class="validate"></div>
-              </div>
-            </div>
-            <div class="form-group">
-              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-              <div class="validate"></div>
-            </div>
-            <div class="form-group">
-              <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-              <div class="validate"></div>
-            </div>
-            <div class="mb-3">
-              <div class="loading">Loading</div>
-              <div class="error-message"></div>
-              <div class="sent-message">Your message has been sent. Thank you!</div>
-            </div>
-            <div class="text-center"><button type="submit">Send Message</button></div>
-          </form>
         </div>
 
       </div>
